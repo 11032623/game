@@ -1,0 +1,9 @@
+﻿License type: BUSINESS
+Product: Construct 2
+Licensed to: cgpersia
+Email: pet@cgp.jp
+Comment: Purchased via cgpersia (pet@cgp.jp)
+Timestamp: 1367190508
+Hash: 53B80C450AF81D4166261F5C731205A245D50F88E984DA9FF
+
+This is PRIVATE license. Please TURN OFF "UPDATE CHECKING" in C2 preferences BEFORE USE!!!
